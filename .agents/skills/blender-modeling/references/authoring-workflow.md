@@ -32,4 +32,5 @@
 
 - [検証チェックリスト](./validation-checklist.md)を用途に応じて使う。
 - エクスポート設定は対象形式・受け取り側の仕様に基づいて決める。
+- Unity向けFBXでは、[room Blender MCP仕様](./room-blender-mcp.md)に記録した単位・変換・軸設定と、その適用範囲を確認する。
 - Blender内の確認と、外部アプリでのインポート確認を区別して報告する。

@@ -4,8 +4,10 @@
 
 - [Blender Manual](https://docs.blender.org/manual/en/latest/): Blenderのユーザーマニュアル
 - [Blender Python API](https://docs.blender.org/api/current/): Python APIリファレンス
+- [Blender FBX export operator API](https://docs.blender.org/api/current/bpy.ops.export_scene.html#bpy.ops.export_scene.fbx): FBX exporterの現在の引数と注意事項
 - [Blender Releases](https://www.blender.org/download/releases/): リリース情報
 - [Blender source repository](https://projects.blender.org/blender/blender): 実装・開発情報
+- [Cluster公式記事: BlenderでUnity向けにモデルを出力する時のおすすめ設定](https://creator.cluster.mu/2022/07/26/blender-unity/): 単位、回転・スケール、原点、FBX出力設定の参考（2022-07-26公開）
 
 これらのURLは参照先であり、特定バージョンの内容を確認済みという意味ではない。手順を追加する前に、利用中のBlenderバージョンに対応する資料を確認する。
 
