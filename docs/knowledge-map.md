@@ -5,6 +5,7 @@ Blenderに関する再利用可能な技術知識はこのリポジトリに集�
 ## 現在のSkill
 
 - `blender-modeling`: Blenderでの作成、編集、検証、エクスポートの基本ワークフロー
+- `blender-modeling`の`references/room-blender-mcp.md`: roomプロジェクト固有のMCP機能と出力先
 
 ## 知識領域
 

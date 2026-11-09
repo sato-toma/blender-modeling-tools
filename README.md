@@ -5,6 +5,7 @@ Blenderに関するAgent向けSkillと技術資料を蓄積するリポジトリ
 ## 現在の内容
 
 - [Blender Modeling Skill](./.agents/skills/blender-modeling/SKILL.md): Blenderでの作成・編集・検証・エクスポートの基本ワークフロー
+- [room Blender MCP仕様](./.agents/skills/blender-modeling/references/room-blender-mcp.md): roomの`create_fbx`機能と出力先
 - [知識マップ](./docs/knowledge-map.md): Blender技術を追加する場所と今後の整理方針
 - [情報源と採用方針](./docs/sources.md): 公式資料の参照先、バージョン確認、出典記録のルール
 
